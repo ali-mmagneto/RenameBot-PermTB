@@ -1,7 +1,7 @@
 class script(object):
-    START_TEXT = """ Ben Videoları Yeniden adalndırabilen Kapak Fotoğrafı destekli Basit bir Telegram Botuyum! /n By @mmagneto 💯
+    START_TEXT = """ Ben Videoları Yeniden adlanndırabilen Kapak Fotoğrafı destekli Basit bir Telegram Botuyum! By @mmagneto 💯
 
-<b>Bana herhangi bir Telegram dosyası gönderin ve uygun seçeneği belirleyin! </b>"""
+<b>Bana herhangi bir Telegram dosyası gönderin ve uygun seçeneği belirleyin! Veya Anlamadıysan /help komutunu kullan. </b>"""
 
     RENAME_403_ERR = "Napıyonnn? Sen Banlandın"
     UPGRADE_TEXT = "CONTACT @mmagneto"
@@ -16,5 +16,5 @@ class script(object):
     HELP_USER = """O kadar da karmaşık değil.😅
     
 1. Bana bir Telegram Dosyası Gönder.
-2. Dosyana Yapmak İstediğini Seç /n made by: @mmagneto."""
+2. Dosyana Yapmak İstediğini Seç. made by: @mmagneto."""
 
